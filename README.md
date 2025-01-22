@@ -16,8 +16,8 @@
 -   Al momento de clonar el repositorio se crea el readme.
 3.	Averigua para qué sirve y como se usan estos comandos **git add** y **git commit -m “mensaje”**
 -   git add: Comando usado para declarar los cambios que se realizaran en el siguiente  commit.
--   git commit -m"mensaje": Comando que realiza los cambios antes declarados en el repositorio.("el 
-    mensaje debe decir que cambios se realizaron")
+-   git commit -m"mensaje": Comando que toma los cambios antes declarados mientras se realiza
+    un git push(mensaje debe decir que cambios se realizaron)
 4. Abre una cuenta de github, si ya la tienes, enlazala con el correo institucional.
 -   Ya contaba con una cuenta github con mi correo institucional.
 5.  Crea un repositorio en blanco (vacío) e GitHub.
@@ -27,7 +27,7 @@
 7.  Sube los cambios, teniendo en cuenta lo que averiguaste en el punto 3 Utiliza los siguientes comando en el directorio donde tienes tu proyecto, en este orden:
 ![alt text](images/comandos.png)
 8. Configura el correo en git local de manera correcta Configurar correo electrónico en GitHub
-- 
+- .
 9. Vuelve a subir los cambios y observa que todo esté bien en el repositorio remoto (en GitHub).
 - 
 
